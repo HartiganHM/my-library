@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.14.4",
+    "knex": "^2.4.2",
     "pg": "^7.4.1"
   }
 }
